@@ -1,0 +1,33 @@
+{
+  "name": "hastysquad",
+  "version": "1.0.0",
+  "description": "An app designed to aid in standard Hasty Squad procedures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamacleish/hastysquad.git"
+  },
+  "author": "Ian MacLeish <iamacleish@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamacleish/hastysquad/issues"
+  },
+  "homepage": "https://github.com/iamacleish/hastysquad#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.4.6",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.8",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "bootstrap-scss": "^4.2.1",
+    "gulp-concat": "^2.6.1"
+  }
+}
